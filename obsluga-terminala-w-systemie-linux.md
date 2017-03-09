@@ -24,6 +24,7 @@ Po otwarciu programu PuTTY w pole _Host Name \(or IP address\)_ wpisujemy `stasz
 - Podczas wpisywania hasła, zarówno w programie PuTTY jak i przy użyciu komendy SSH, najprawdopodobniej nie wyświetlą się gwiazdki, kropki ani inne symbole. Jest to po prostu cecha systemów linuxowych i podobnych, hasło jest nadal wpisywane, tylko tego nie widać.
 - PuTTY to zestaw narzędzi nie tylko do łączenia z serwerami SSH, ale też do obsługi kluczy kryptograficznych i łączenia przez Telnet.
 - Serwer Tanaka początkowo nosił nazwę Miyano \(obie nazwy to imiona postaci z serialu anime _Tanaka-kun wa Itsumo Kedaruge_\). Nazwa została zmieniona po tym, jak serwer spadł z biurka w sali 40, a konkretnie przypadkiem oparłem się o niego ja i się zsunął.
+ - Tanaka jest źródłem wielu niezapomnianych cytatów (to ten z ciemnymi włosami po prawej): ![](https://pbs.twimg.com/media/CwRTOWsWYAAKYCb.jpg:large)
 
 # Podstawowe komendy
 
