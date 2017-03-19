@@ -28,6 +28,10 @@ Po otwarciu programu PuTTY w pole _Host Name \(or IP address\)_ wpisujemy `stasz
 
 # Podstawowe komendy
 
-Po zalogowaniu trafiamy domyślnie do swojego katalogu/folderu domowego, czyli do `/home/mojanazwauzytkownika`. Żeby się o tym upewnić, możemy użyć komendy `pwd` (skrót od _**p**rint **w**orking **d**irectory_ (na obecny folder mówimy folder roboczy)), która poda nam obecny folder.
+Po zalogowaniu trafiamy domyślnie do swojego katalogu/folderu domowego, czyli do `/home/mojanazwauzytkownika`. Żeby się o tym upewnić, możemy użyć komendy `pwd` (skrót od _**p**rint **w**orking **d**irectory_ (na obecny folder mówimy folder  roboczy)), która poda nam obecny folder.
 
-Nie musimy się ograniczać do tylko jednego folderu. Możemy utworzyć nowy folder używając komendy `mkdir` (_**m**a**k**e **dir**ectory_)
+Nie musimy się ograniczać do tylko jednego folderu. Możemy utworzyć nowy folder używając komendy `mkdir` (_**m**a**k**e **dir**ectory_), na przykład: aby utworzyć folder `muzyka`, wpisujemy `mkdir muzyka`.
+
+Poprzednio nasz katalog domowy był pusty, więc nie było nam to potrzebne, ale zazwyczaj dobrze jest umieć wypisać wszystkie pliki znajdujące się w określonym folderze. Użyjemy do tego polecenia `ls` (_**l**i**s**t_). Możemy podać nazwę folderu, który chcemy sprawdzić, na przykład `ls muzyka` albo ls `/home`, ale jeżeli nie podamy nic, wypisana zostanie lista plików i katalogów w obecnym katalogu. Możemy również dodawać różne flagi do poleceń, na przykład `ls -l muzyka` wypisze dodatkowe szczegóły zawartości folderu `muzyka`, a `ls -a` wypisze wszystkie, również ukryte pliki z obecnego folderu.
+
+// TODO: write, wall, mesg, rm
