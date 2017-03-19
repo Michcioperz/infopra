@@ -28,7 +28,6 @@ Po otwarciu programu PuTTY w pole _Host Name \(or IP address\)_ wpisujemy `stasz
 
 # Podstawowe komendy
 
-//TODO
-
+Po zalogowaniu trafiamy domyślnie do swojego katalogu/folderu domowego, czyli do `/home/mojanazwauzytkownika`. Żeby się o tym upewnić, możemy użyć komendy `pwd` (skrót od _print working directory_ (na obecny folder mówimy folder roboczy)), która poda nam obecny folder.
 
 
